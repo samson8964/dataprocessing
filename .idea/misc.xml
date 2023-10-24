@@ -3,9 +3,9 @@
   <component name="Black">
     <option name="enabledOnReformat" value="true" />
     <option name="pathToExecutable" value="D:\Anaconda\Scripts\black.exe" />
-    <option name="sdkName" value="D:\anaconda" />
+    <option name="sdkName" value="D:\Anaconda" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="D:\anaconda" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="D:\Anaconda" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
